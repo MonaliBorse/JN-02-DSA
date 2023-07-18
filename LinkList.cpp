@@ -81,8 +81,8 @@ int main()
     insertAtTell(head,4);
     insertAtTell(head,5);
     display(head);
-   // insertAtHead(head,8);
-    //display(head);
+    insertAtHead(head,8);
+    display(head);
     //search(head,2);/*cout search(head,4);*/
     //deletion(head,2);
    deleteAtHead(head);
